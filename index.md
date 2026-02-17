@@ -1,56 +1,66 @@
+
 # Abhishek Srivastava
 
 ## About
-Abhishek Srivastava
-Lead Data Engineer
-I am a Lead Data Engineer and MS Data Science student with 18+ years of experience designing and building data platforms and analytics solutions. I specialize in cloud-native data engineering, scalable ETL/ELT pipelines, and productionizing machine learning and generative AI systems.
 
-My strengths include Python, SQL, Spark, dbt, Snowflake, and modern data warehousing on AWS and Azure. I am particularly interested in Retrieval-Augmented Generation (RAG), LLM fine-tuning, and MLOps practices that make AI systems reliable in production.
+**Abhishek Srivastava**  
+Lead Data Engineer | MS Data Science Student  
 
-I am targeting roles in data engineering, machine learning engineering, and applied AI, especially in organizations that value data-driven decision making and scalable, well-architected infrastructure.
+I am a Lead Data Engineer and MS Data Science student with over 18 years of experience designing and building data platforms and analytics solutions. I specialize in cloud-native data engineering, scalable ETL/ELT pipelines, and deploying machine learning and generative AI solutions into production.  
 
-## Core skills:
-- Data engineering: Python, SQL, Spark, Airflow, dbt, Snowflake
-- Cloud: AWS, Azure, CI/CD
-- AI/ML: supervised learning, time series, LLMs, RAG, prompt engineering
-- MLOps: deployment, monitoring, experiment tracking
+My core technical strengths include Python, SQL, Spark, dbt, Snowflake, and modern data warehousing on AWS and Azure. I am particularly interested in Retrieval-Augmented Generation (RAG), LLM fine-tuning, and MLOps practices that make AI systems robust, observable, and reliable in real-world environments.  
 
+I am targeting roles in data engineering, machine learning engineering, and applied AI, especially in organizations that value data-driven decision-making, scalable architecture, and modern AI-driven products.  
+
+## Core Skills
+
+- Data Engineering: Python, SQL, Spark, Airflow, dbt, Snowflake  
+- Cloud & Infrastructure: AWS, Azure, CI/CD pipelines  
+- AI & Machine Learning: supervised learning, time series modeling, LLMs, RAG, prompt engineering  
+- MLOps: model deployment, monitoring, experiment tracking, and lifecycle management  
 
 ## Work / Projects
-### Improve_MLB_Attendance
-https://github.com/dsabhisri/data-science-portfolio/tree/main/Improve_MLB_Attendance
 
-### Project10
-https://github.com/dsabhisri/data-science-portfolio/tree/main/Project10
+### Improve_MLB_Attendance  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/Improve_MLB_Attendance  
 
-### Project 3 
-https://github.com/dsabhisri/data-science-portfolio/tree/main/Project8
+### Project10  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/Project10  
 
-### Project9
-https://github.com/dsabhisri/data-science-portfolio/tree/main/Project9
+### Project 3  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/Project8  
 
-### RecommenderSystem
-https://github.com/dsabhisri/data-science-portfolio/tree/main/RecommenderSystem
+### Project9  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/Project9  
 
-### Time_series_modelling
-https://github.com/dsabhisri/data-science-portfolio/tree/main/Time_series_modelling
+### RecommenderSystem  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/RecommenderSystem  
 
-### amazon_bestsellers_eda_analysis
-https://github.com/dsabhisri/data-science-portfolio/tree/main/amazon_bestsellers_eda_analysis
+### Time_series_modelling  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/Time_series_modelling  
 
-### Intelligent Codebase and Domain Knowledge Management System
-Problem: Software and data teams needed a way to quickly search, understand, and reuse knowledge scattered across large codebases and documentation.  
-Approach: Built a retrieval-augmented generation (RAG) system that ingests code, docs, and design artifacts into a vector database, then uses an LLM to answer natural language questions with grounded context. Implemented ETL pipelines, chunking, embedding, and query orchestration.  
-Impact: Improved discoverability of internal knowledge and accelerated onboarding and troubleshooting by providing accurate, context-aware answers instead of manual searching.  
-Tech stack: Python, vector database, Azure OpenAI, LangChain (or equivalent), cloud storage.  
-https://github.com/dsabhisri/data-science-portfolio/tree/main/ntelligent-codebase_knowledge-mgmt_finetuning
+### amazon_bestsellers_eda_analysis  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/amazon_bestsellers_eda_analysis  
 
-### publicSafetyresponse
-https://github.com/dsabhisri/data-science-portfolio/tree/main/publicSafetyresponse
+### Intelligent Codebase and Domain Knowledge Management System  
 
-### stock-market-analysis_buy-signal-design
-https://github.com/dsabhisri/data-science-portfolio/tree/main/stock-market-analysis_buy-signal-design
+Problem: Software and data teams needed a faster way to search, understand, and reuse knowledge spread across large codebases and documentation.  
+
+Approach: I built a retrieval-augmented generation (RAG) system that ingests code, documents, and design artifacts into a vector database, then uses a large language model to answer natural language questions with grounded, context-aware responses. The solution includes data ingestion pipelines, text chunking, embedding generation, and query orchestration.  
+
+Impact: The system improves discoverability of internal knowledge, accelerates onboarding, and reduces time spent manually searching through repositories and documents, enabling engineers to resolve issues and understand systems more quickly.  
+
+Tech stack: Python, vector database, Azure OpenAI, LangChain (or equivalent orchestration framework), cloud storage.  
+
+Repository:  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/ntelligent-codebase_knowledge-mgmt_finetuning  
+
+### publicSafetyresponse  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/publicSafetyresponse  
+
+### stock-market-analysis_buy-signal-design  
+https://github.com/dsabhisri/data-science-portfolio/tree/main/stock-market-analysis_buy-signal-design  
 
 ## Contact
-abhishek.disney@gmail.com
 
+Email: abhishek.disney@gmail.com
