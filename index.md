@@ -3,6 +3,18 @@
 ## About
 Abhishek Srivastava
 Lead Data Engineer
+I am a Lead Data Engineer and MS Data Science student with 18+ years of experience designing and building data platforms and analytics solutions. I specialize in cloud-native data engineering, scalable ETL/ELT pipelines, and productionizing machine learning and generative AI systems.
+
+My strengths include Python, SQL, Spark, dbt, Snowflake, and modern data warehousing on AWS and Azure. I am particularly interested in Retrieval-Augmented Generation (RAG), LLM fine-tuning, and MLOps practices that make AI systems reliable in production.
+
+I am targeting roles in data engineering, machine learning engineering, and applied AI, especially in organizations that value data-driven decision making and scalable, well-architected infrastructure.
+
+## Core skills:
+- Data engineering: Python, SQL, Spark, Airflow, dbt, Snowflake
+- Cloud: AWS, Azure, CI/CD
+- AI/ML: supervised learning, time series, LLMs, RAG, prompt engineering
+- MLOps: deployment, monitoring, experiment tracking
+
 
 ## Work / Projects
 ### Improve_MLB_Attendance
