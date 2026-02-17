@@ -38,7 +38,11 @@ https://github.com/dsabhisri/data-science-portfolio/tree/main/Time_series_modell
 ### amazon_bestsellers_eda_analysis
 https://github.com/dsabhisri/data-science-portfolio/tree/main/amazon_bestsellers_eda_analysis
 
-### ntelligent-codebase_knowledge-mgmt_finetuning
+### Intelligent Codebase and Domain Knowledge Management System
+Problem: Software and data teams needed a way to quickly search, understand, and reuse knowledge scattered across large codebases and documentation.  
+Approach: Built a retrieval-augmented generation (RAG) system that ingests code, docs, and design artifacts into a vector database, then uses an LLM to answer natural language questions with grounded context. Implemented ETL pipelines, chunking, embedding, and query orchestration.  
+Impact: Improved discoverability of internal knowledge and accelerated onboarding and troubleshooting by providing accurate, context-aware answers instead of manual searching.  
+Tech stack: Python, vector database, Azure OpenAI, LangChain (or equivalent), cloud storage.  
 https://github.com/dsabhisri/data-science-portfolio/tree/main/ntelligent-codebase_knowledge-mgmt_finetuning
 
 ### publicSafetyresponse
